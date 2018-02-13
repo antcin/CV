@@ -1,4 +1,4 @@
-## Antonio Ciniglio \n [LinkedIn](https://www.linkedin.com/in/antoniociniglio/) | [Twitter](https://twitter.com/_antcin_) | [Quora](https://www.quora.com/profile/Antonio-Ciniglio)  
+## Antonio Ciniglio<br>[LinkedIn](https://www.linkedin.com/in/antoniociniglio/) | [Twitter](https://twitter.com/_antcin_) | [Quora](https://www.quora.com/profile/Antonio-Ciniglio)  
 
 
 [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)  
