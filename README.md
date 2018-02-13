@@ -1,7 +1,7 @@
 ## Antonio Ciniglio<br>[LinkedIn](https://www.linkedin.com/in/antoniociniglio/) | [Twitter](https://twitter.com/_antcin_) | [Quora](https://www.quora.com/profile/Antonio-Ciniglio)  
 
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)  
+[Skills](#skills) | [Languages](#languages) | [Education](#education) | [Experience](#experience) | [Interests](#interests)  
 
 
 I am a highly motivated and ambitious aspiring Junior Developer.
