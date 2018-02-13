@@ -53,7 +53,7 @@ study of Randomised Response Techniques (RRTs) and Direct Questioning (DQ)
 
 - PG Certificate in Paleoradiology
 
-#### University of Naples \‘Federico II\’ (2010 - 2013)
+#### University of Naples ‘Federico II’ (2010 - 2013)
 
 - BSc Radiography, Diagnostic &amp; Therapeutic
 - 2:1
