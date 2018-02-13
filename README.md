@@ -55,7 +55,7 @@ study of Randomised Response Techniques (RRTs) and Direct Questioning (DQ)
 
 #### University of Naples \‘Federico II\’ (2010 - 2013)
 
-- BSc Radiography, Diagnostic &amp Therapeutic
+- BSc Radiography, Diagnostic &amp; Therapeutic
 - 2:1
 - Coursework: Digital Radiography, Computed Tomography,
 Magnetic Resonance Imaging, Radiotheraphy, Nuclear Medicine
