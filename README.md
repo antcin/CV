@@ -26,7 +26,7 @@ In my role at Saving Faces, I assisted with the management of clinical audits. T
 
 #### Ability to work under pressure
 
-In my role at Saving Faces, I assisted with the management of clinical audits. Through a systematic approach aimed at breaking down tasks in manageable parts, I was able to provide both clinical and technical support to stakeholders of different levels, including consultants and data analysts. I find that this method of tackling a large task by segmentation can be applied to many problem solving projects and results in a calmer working practice and more thorough end result.
+I am able to understand priorities and perform highly pressured tasks whilst maintaining a high standard of work. I learnt this skill during my Radiography training in busy A&E departments in Italy, and developed it further during pressured occasions in my masters studies and again during particularly demanding instances in my job at Saving Faces. Whilst I feel I have built a proficiency in this skill, I believe it requires a nuanced adaptation to any new experience, and therefore I am eager to develop it by applying it to the pressured working environment at the academy and in my future career.
 
 ## Languages
 - **Italian** Native language
