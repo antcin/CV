@@ -77,5 +77,5 @@ Magnetic Resonance Imaging, Radiotheraphy, Nuclear Medicine
 ## Interests
 - **Travelling**
 - **Reading**
-- **Vinyl record collection**
+- **Vinyl records collection**
 - **Cooking and baking**
