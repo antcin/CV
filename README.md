@@ -4,7 +4,7 @@
 [Skills](#skills) | [Languages](#languages) | [Education](#education) | [Experience](#experience) | [Interests](#interests)  
 
 
-I am a highly motivated and ambitious aspiring Junior Developer.
+I am a highly motivated and ambitious full stack Software Developer.
 
 After completing my studies and training in Radiography in Italy, I decided to move to the UK to complete a masters degree in Health Informatics. Moved by a strong interest in working for NGOs, I was employed after my graduation as a Clinical Researcher at Saving Faces, which is a medical research charity dedicated to the reduction of facial injuries and diseases.
 
@@ -39,6 +39,15 @@ I am able to understand priorities and perform highly pressured tasks whilst mai
 ## Education
 
 #### Makers Academy (Jan 2018 - present)
+
+  - OOP, SOLID, MVC, TDD, BDD, DDD
+  - Agile Methodologies
+  - XP Values
+  - Pair and Mob programming
+  - Ruby, Sinatra, Rails, RSpec
+  - JavaScript, Node.js, JQuery, Jasmine, Mocha, Chai
+  - PostgreSQL, MongoDB
+  - Git
 
 #### City, University of London (2014 - 2015)
 
