@@ -15,7 +15,7 @@ I am now striving to take my existing skills and experiences and apply them furt
 - **Core technologies:** Ruby, Sinatra, Rails, JavaScript, Node.js, JQuery  
 - **Testing technologies:** RSpec, Jasmine, Mocha, Chai, Capybara
 - **Databases:** PostgreSQL, MongoDB, ActiveRecord, DataMapper
-- **Version Control:** Git, GitHub
+- **Version control:** Git, GitHub
 
 #### Adaptability
 
