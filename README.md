@@ -12,6 +12,11 @@ I am now striving to take my existing skills and experiences and apply them furt
 
 ## Skills
 
+- **Core technologies:** Ruby, Sinatra, Rails, JavaScript, Node.js, JQuery  
+- **Testing technologies:** RSpec, Jasmine, Mocha, Chai, Capybara
+- **Databases:** PostgreSQL, MongoDB, ActiveRecord, DataMapper
+- **Version Control:** Git, GitHub
+
 #### Adaptability
 
 I moved to a different country to pursue my masters degree. I was successful in quickly adapting to a new educational environment, as well as in having to quickly hone my existing language skills and become much more proficient. I graduated with a Distinction, and soon after graduating was hired by Saving Faces. Despite the fact I had never worked in the facial surgery field, I was able to carry out research and understand projects I was tasked with within a week.
@@ -44,10 +49,6 @@ I am able to understand priorities and perform highly pressured tasks whilst mai
   - Agile Methodologies
   - XP Values
   - Pair and Mob programming
-  - Ruby, Sinatra, Rails, RSpec
-  - JavaScript, Node.js, JQuery, Jasmine, Mocha, Chai
-  - PostgreSQL, MongoDB
-  - Git
 
 #### City, University of London (2014 - 2015)
 
