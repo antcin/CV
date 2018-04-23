@@ -6,9 +6,11 @@
 
 I am a highly motivated and ambitious full stack Software Developer.
 
-After completing my studies and training in Radiography in Italy, I decided to move to the UK to complete a masters degree in Health Informatics. Moved by a strong interest in working for NGOs, I was employed after my graduation as a Clinical Researcher at Saving Faces, which is a medical research charity dedicated to the reduction of facial injuries and diseases.
+After completing my studies and training in Radiography in Italy, I decided to move to the UK to complete a masters degree in Health Informatics. Upon graduating from this, I was particularly interested in  working for NGOs, and so was employed as a Clinical Researcher at Saving Faces, which is a medical research charity dedicated to the reduction of facial injuries and diseases.
 
-I am now striving to take my existing skills and experiences and apply them further. I am driven by a keen interest in technology and its application to healthcare, and I decided to join Makers Academy as I believe the curriculum will provide me with the right foundation to pursue a career in Digital Health, a sector which I believe holds much potential. During these 12 weeks I am hoping to gain the knowledge and abilities to develop mHealth projects to present to potential employers in this sector. After completing the academy, I would ideally like to be working in a fast-paced, forward-thinking environment where I could continue learning and applying my interests to support current work practices, whilst also being given the opportunity to innovate and progress further.
+I am driven by a keen interest in technology and I decided to join Makers Academy as I believed their curriculum would provide me with the right foundation to pursue a career in software development.  During the course, I have gained the knowledge and abilities to develop software following best-approach practices. I have learnt to work in teams with other coders, and problem solve by sharing our skills and combining ideas. As well as this, I have honed the discipline of coding alone and the tenacity and dedication required in finding solutions.
+
+The course has been satisfyingly intense and an excellently steep learning curve. I am now striving to take my existing skills and experiences and apply them further. I would ideally like to be working in a fast-paced, forward-thinking environment where I could continue learning and  engaging my interests to support current work practices, whilst also being given the opportunity to innovate and progress in new ways.
 
 ## Selected projects
 
