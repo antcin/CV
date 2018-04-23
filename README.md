@@ -15,7 +15,7 @@ The course has been satisfyingly intense and an excellently steep learning curve
 ## Selected projects
 
 Project | Description |  Technologies Used | Testing Technologies | Deployment
---- | --- | --- | --- | --- | ----
+------- | ----------- | ------------------ | -------------------- | ----------
 [Acebook](https://github.com/Byte4/acebook-byte4) | A clone web app of Facebook (Group challenge) | Ruby on Rails, Devise, Paperclip, HTML, CSS, Bootstrap, jQuery | RSpec, Capybara, Selenium WebDriver | [Heroku](https://acebook-byte4.herokuapp.com/)
 [Trollstagram](https://github.com/antcin/instagram-challenge) | A clone web app of Instagram (Solo challenge) | Ruby on Rails, Devise, Paperclip, HTML, CSS, Bootstrap, jQuery | RSpec, Capybara, Selenium WebDriver |
 [Note App](https://github.com/antcin/note_app) | Single page app for creating and viewing a list of notes (Group challenge)| JavaScript | Custom testing environment |
