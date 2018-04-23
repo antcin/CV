@@ -10,6 +10,16 @@ After completing my studies and training in Radiography in Italy, I decided to m
 
 I am now striving to take my existing skills and experiences and apply them further. I am driven by a keen interest in technology and its application to healthcare, and I decided to join Makers Academy as I believe the curriculum will provide me with the right foundation to pursue a career in Digital Health, a sector which I believe holds much potential. During these 12 weeks I am hoping to gain the knowledge and abilities to develop mHealth projects to present to potential employers in this sector. After completing the academy, I would ideally like to be working in a fast-paced, forward-thinking environment where I could continue learning and applying my interests to support current work practices, whilst also being given the opportunity to innovate and progress further.
 
+## Selected projects
+
+Project | Description |  Technologies Used | Testing Technologies | Deployment
+--- | --- | --- | --- | --- | ----
+[Acebook](https://github.com/Byte4/acebook-byte4)    | A clone web app of Facebook (Group challenge) | Ruby on Rails, Devise, Paperclip, HTML, CSS, Bootstrap, jQuery| RSpec, Capybara, Selenium WebDriver | [Heroku](https://acebook-byte4.herokuapp.com/)
+[Trollstagram](https://github.com/antcin/instagram-challenge)| A clone web app of Instagram (Solo challenge) | Ruby on Rails, Devise, Paperclip, HTML, CSS, Bootstrap, jQuery | RSpec, Capybara, Selenium WebDriver
+[Note App](https://github.com/antcin/note_app)| Single page app for creating and viewing a list of notes (Group challenge)| JavaScript | Custom testing environment |
+[Thermostat](https://github.com/antcin/thermostat-challenge)| A simple web app that simulates a digital thermostat (Pair challenge) | JavaScript, jQuery, HTML, CSS, OpenWeatherMap API | Jasmine |
+[Rock, Paper, Scissors](https://github.com/antcin/rps-challenge)| A simple web app that allows a user to play _Rock, Paper, Scissors against a computer_ (Solo challenge) | Ruby | RSpec, Capybara| [Heroku](https://rock-paper-scissors-ac.herokuapp.com/)
+
 ## Skills
 
 - **Core technologies:** Ruby, Sinatra, Rails, JavaScript, Node.js, JQuery  
