@@ -16,10 +16,10 @@ The course has been satisfyingly intense and an excellently steep learning curve
 
 Project | Description |  Technologies Used | Testing Technologies | Deployment
 --- | --- | --- | --- | --- | ----
-[Acebook] | A clone web app of Facebook (Group challenge) | Ruby on Rails, Devise, Paperclip, HTML, CSS, Bootstrap, jQuery | RSpec, Capybara, Selenium WebDriver | [Heroku](https://acebook-byte4.herokuapp.com/)
+[Acebook](https://github.com/Byte4/acebook-byte4) | A clone web app of Facebook (Group challenge) | Ruby on Rails, Devise, Paperclip, HTML, CSS, Bootstrap, jQuery | RSpec, Capybara, Selenium WebDriver | [Heroku](https://acebook-byte4.herokuapp.com/)
 [Trollstagram](https://github.com/antcin/instagram-challenge) | A clone web app of Instagram (Solo challenge) | Ruby on Rails, Devise, Paperclip, HTML, CSS, Bootstrap, jQuery | RSpec, Capybara, Selenium WebDriver |
 [Note App](https://github.com/antcin/note_app) | Single page app for creating and viewing a list of notes (Group challenge)| JavaScript | Custom testing environment |
-[Thermostat](https://github.com/antcin/thermostat-challenge) | A simple web app that simulates a digital thermostat (Pair challenge) | JavaScript, jQuery, HTML, CSS, OpenWeatherMap API | Jasmine | 
+[Thermostat](https://github.com/antcin/thermostat-challenge) | A simple web app that simulates a digital thermostat (Pair challenge) | JavaScript, jQuery, HTML, CSS, OpenWeatherMap API | Jasmine |
 [Rock, Paper, Scissors](https://github.com/antcin/rps-challenge) | A simple web app that allows a user to play _Rock, Paper, Scissors against a computer_ (Solo challenge) | Ruby | RSpec, Capybara | [Heroku](https://rock-paper-scissors-ac.herokuapp.com/)
 
 
