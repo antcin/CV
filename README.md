@@ -37,7 +37,7 @@ I moved to a different country to pursue my masters degree. I was successful in 
 
 #### Teamwork
 
-I am a firm believer in the concept of TEAM (Together Everyone Achieves More). I have had the opportunity of working in very diverse environments where teamwork was key to achieve effective results. I worked in public and private hospital settings where I collaborated with health professionals of any level and radiology consultants to provide care to patients and produce high quality diagnostic imaging. Having also worked in a charity setting as part of a fairly small team, it was necessary to contribute outside of my specific job role often to assist my colleagues in their work; for example, in supporting administrative staff in the organisation of fundraising events or in assisting on research projects which were not under my remit. I feel I have therefore honed a good proficiency in this skill, and look forward to applying it further in peer work at the academy.
+I am a firm believer in the concept of TEAM (Together Everyone Achieves More). I have had the opportunity of working in very diverse environments where teamwork was key to achieve effective results. I worked in public and private hospital settings where I collaborated with health professionals of any level and radiology consultants to provide care to patients and produce high quality diagnostic imaging. Having also worked in a charity setting as part of a fairly small team, it was necessary to contribute outside of my specific job role often to assist my colleagues in their work; for example, in supporting administrative staff in the organisation of fundraising events or in assisting on research projects which were not under my remit. I feel I have therefore honed a good proficiency in this skill, and look forward to applying it further in peer work at my next workplace.
 
 #### Problem solving
 
@@ -45,7 +45,7 @@ In my role at Saving Faces, I assisted with the management of clinical audits. T
 
 #### Ability to work under pressure
 
-I am able to understand priorities and perform highly pressured tasks whilst maintaining a high standard of work. I learnt this skill during my Radiography training in busy A&E departments in Italy, and developed it further during pressured occasions in my masters studies and again during particularly demanding instances in my job at Saving Faces. Whilst I feel I have built a proficiency in this skill, I believe it requires a nuanced adaptation to any new experience, and therefore I am eager to develop it by applying it to the pressured working environment at the academy and in my future career.
+I am able to understand priorities and perform highly pressured tasks whilst maintaining a high standard of work. I learnt this skill during my Radiography training in busy A&E departments in Italy, and developed it further during pressured occasions in my masters studies and again during particularly demanding instances in my job at Saving Faces. Whilst I feel I have built a proficiency in this skill, I believe it requires a nuanced adaptation to any new experience, and therefore I am eager to develop it by applying it in my future career.
 
 ## Languages
 - **Italian** Native language
