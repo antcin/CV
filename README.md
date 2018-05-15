@@ -57,7 +57,7 @@ I am able to understand priorities and perform intensely pressured tasks whilst 
 
 ## Education
 
-#### Makers Academy (Jan 2018 - present)
+#### Makers Academy (Jan 2018 - May 2018)
 
   - OOP, SOLID, MVC, TDD, BDD, DDD
   - Agile Methodologies
