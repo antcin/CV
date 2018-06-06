@@ -39,7 +39,7 @@ I am a firm believer in the concept of TEAM (Together Everyone Achieves More). I
 
 #### Problem solving
 
-In my role at Saving Faces, I assisted with the management of clinical audits. Through a systematic approach aimed at breaking down tasks in manageable parts, I was able to provide both clinical and technical support to stakeholders of different levels. I find that this method of tackling a large task by segmentation can be applied to many problem solving projects and results in a calmer working practice and more thorough end result. This method also proved to be very effective when applied to solving problems which arose in software development projects throughout my time at Makers. In addition, I found that Agile methodologies worked best when approaching coding problems. In particular, the method of reflective listening helped me properly ingest the tasks at hand and tackle them accurately in pair and team programming scenarios. In addition, the technique of avoiding spending too much time caught up in _meta-problems_ proved to be beneficial to achieving the larger task at hand. 
+In my role at Saving Faces, I assisted with the management of clinical audits. Through a systematic approach aimed at breaking down tasks in manageable parts, I was able to provide both clinical and technical support to stakeholders of different levels. I find that this method of tackling a large task by segmentation can be applied to many problem solving projects and results in a calmer working practice and more thorough end result. This method also proved to be very effective when applied to solving problems which arose in software development projects throughout my time at Makers. In addition, I found that Agile methodologies worked best when approaching coding problems. In particular, the method of reflective listening helped me properly ingest the tasks at hand and tackle them accurately in pair and team programming scenarios. In addition, the technique of avoiding spending too much time caught up in _meta-problems_ proved to be beneficial to achieving the larger task at hand.
 
 #### Ability to work under pressure
 
@@ -59,8 +59,7 @@ I am able to understand priorities and perform intensely pressured tasks whilst 
 
   - OOP, SOLID, MVC, TDD, BDD, DDD
   - Agile Methodologies
-  - XP Values
-   - Communication, Simplicity, Feedback, Courage, Respect
+  - XP Values (Communication, Simplicity, Feedback, Courage, Respect)
   - Pair and Mob programming
 
 #### City, University of London (2014 - 2015)
